@@ -1,4 +1,5 @@
-Bài 5. Xây dựng chương trình làm việc với ma trận
+Bài 5. Xây dựng chương trình làm việc với ma trận:
+Xây dựng các phương thức trong lớp MaTran
 Thuộc tính
      private int m; //Số dòng
      private int n; //Số cột
@@ -8,3 +9,7 @@ Hàm tạo MaTran(int m, int n) để khởi tạo ma trận m dòng, n cột
 Nhập ma trận
 In ma trận ra màn hình
 Cộng 2 ma trận
+Tính hiệu 2 ma trận
+Tính tích 2 ma trận
+Tìm ma trận chuyển vị
+Kiểm tra ma trận có phải ma trận vuông hay không?
