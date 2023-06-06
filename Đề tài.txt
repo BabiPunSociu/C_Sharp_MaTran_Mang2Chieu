@@ -1,0 +1,10 @@
+Bài 5. Xây dựng chương trình làm việc với ma trận
+Thuộc tính
+     private int m; //Số dòng
+     private int n; //Số cột
+     private int[ , ] a; //Mảng 2 chiều
+Phương thức
+Hàm tạo MaTran(int m, int n) để khởi tạo ma trận m dòng, n cột
+Nhập ma trận
+In ma trận ra màn hình
+Cộng 2 ma trận
